@@ -1,0 +1,15 @@
+/* tablet.css */
+@media (max-width: 768px) {
+    .card-text {
+        font-size: 0.95rem;
+    }
+
+    .card-title {
+        font-size: 1.1rem;
+    }
+    
+    .navbar-brand {
+        font-size: 1.25rem;
+    }
+}
+

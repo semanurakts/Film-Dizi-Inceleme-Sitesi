@@ -1,0 +1,27 @@
+/* mobile.css */
+/* mobile.css */
+
+@media (max-width: 480px) {
+  .card-body p,
+  .card-text,
+  .lead {
+    font-size: 0.9rem;
+  }
+
+  .navbar-nav {
+    text-align: center;
+  }
+
+  .navbar-collapse {
+    background-color: #212529;
+    padding: 1rem;
+  }
+
+  .navbar-nav .nav-link {
+    margin: 0.5rem 0;
+  }
+
+  h1,h2, .display-5 {
+    font-size: 1.5rem;
+  }
+}
