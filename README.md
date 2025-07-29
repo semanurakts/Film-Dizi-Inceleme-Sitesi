@@ -33,10 +33,10 @@ Ana sayfada ve inceleme sayfalarında aşağıdaki filmlere ait görseller kulla
 
 ## 🧩 Stil Dosyaları
 
-- `global.css` – Temel stil tanımlamaları ve yapılandırma.
-- `main.css` – Sayfa öğelerine özel (navbar, footer, kartlar vb.) stiller.
-- `tablet.css` – 768px altı tablet cihazlar için responsive ayarlamalar.
-- `mobile.css` – 480px altı mobil cihazlar için özelleştirilmiş görünümler.
+- `css/global.css` – Temel stil tanımlamaları ve yapılandırma.
+- `css/main.css` – Sayfa öğelerine özel (navbar, footer, kartlar vb.) stiller.
+- `css/tablet.css` – 768px altı tablet cihazlar için responsive ayarlamalar.
+- `css/mobile.css` – 480px altı mobil cihazlar için özelleştirilmiş görünümler.
 
 ## 📱 Responsive Tasarım
 
